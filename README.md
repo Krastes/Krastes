@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krastes.
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C#
-- ⚡ Dream: Create own game
+- 👀 I’m interested in AI Dev
+- 🌱 I’m currently learning Python
+- ⚡ Dream: Create own "Neuro-Sama"
 
 <!---
 Krastes/Krastes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
